@@ -12,6 +12,7 @@ A Chrome extension that stores pilgrim profiles on your own device and fills the
 ![Chrome 105+](https://img.shields.io/badge/Chrome-105%2B-663399)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-7c067e)
 ![No network requests](https://img.shields.io/badge/network%20requests-none-7c067e)
+![MIT License](https://img.shields.io/badge/license-MIT-663399)
 
 </div>
 
@@ -54,10 +55,10 @@ The extension isn't on the Chrome Web Store yet. To install it from source:
 
 1. Download this repository (**Code → Download ZIP**, then unzip it) or clone it:
    ```bash
-   git clone https://github.com/<your-username>/ttd-smart-fill.git
+   git clone https://github.com/koushikkushal3-ship-it/TTD-AUTOFILLING-extension-.git
    ```
 2. Open `chrome://extensions` and turn on **Developer mode** (top right).
-3. Click **Load unpacked** and select the `ttd-smart-fill` folder.
+3. Click **Load unpacked** and select the downloaded folder (the one that contains `manifest.json`).
 4. Pin the extension from the puzzle-piece menu so the icon is always visible.
 
 ## How to use
@@ -161,4 +162,4 @@ Issues and pull requests are welcome, especially updated field selectors when th
 
 ## License
 
-No license has been chosen yet. Until a `LICENSE` file is added, all rights are reserved by the author.
+[MIT](LICENSE) © 2026 KUSHALSUTTARAI
